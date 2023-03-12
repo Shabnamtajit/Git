@@ -47,13 +47,17 @@ Examples:
             Short-lived: features, releases,hotfixes
 
 PULL REQUEST:
+
    It invites reviewers to provide feedback before merging
    Contributing code to other Repository
 
 FORK:
+
    It is creating fork of original Repository and where we can make changes and suggests those changes to be included via a pull request.
+   
 
 MERGE CONFLICTS:
+
    Conflicts occur when integrating commits from different sources.
    (Like..Merge, rebase, clurry-pick, Stash apply,pull request)
 
