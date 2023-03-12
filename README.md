@@ -68,5 +68,7 @@ How to solve a conflict: clean up the file:
    5. Preserve history.                                           Rewrites history.
 
 NOTES:
+
   a) Do not use Rebase on commits that have already pushed/shared on remote repository.
+  
   b) Instead use it for cleaning up local commit history before merging it into shared team branch.
