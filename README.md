@@ -1,4 +1,4 @@
-                 Git
+                                                                Git
 
 Git is a distributed version control framework that is free and open source.
 It is used for project collaboration and history exploration.
@@ -63,13 +63,13 @@ MERGE CONFLICTS:
 
 How to solve a conflict: clean up the file:
 
-                       MERGE.                              Vs.                    REBASE
+                       MERGE.                              Vs.                                                   REBASE
 
-   1. Merge lets you merge different branches.                    Rebase allows to integrate the changes from one branch to another.
-   2. Shows complete history of commit merging .                  Rebase logs are Linear
-   3. All commits are combined into a single master branch.       Same number of commits are added to master branch.
-   4. Best used when target branch is to be shared.               Best used when target branch is private.
-   5. Preserve history.                                           Rewrites history.
+   1. Merge lets you merge different branches.                                       Rebase allows to integrate the changes from one branch to another.
+   2. Shows complete history of commit merging .                                     Rebase logs are Linear
+   3. All commits are combined into a single master branch.                          Same number of commits are added to master branch.
+   4. Best used when target branch is to be shared.                                  Best used when target branch is private.
+   5. Preserve history.                                                              Rewrites history.
 
 NOTES:
 
