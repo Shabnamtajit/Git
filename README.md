@@ -4,6 +4,7 @@ Git is a distributed version control framework that is free and open source.
 It is used for project collaboration and history exploration.
 
 Features of Git:
+
   1. Fully distributed VCS
   2. Data Integrity And Security
   3. Supports Non-linear Development
@@ -11,6 +12,7 @@ Features of Git:
   5. Lightweight and Fast
 
 Perfect Commit Message:
+
   1. Subject -> consise summary of what happened
   2. Body-> a) different than before
             b) Reason for change
@@ -20,6 +22,7 @@ Working of Git:
 1. Working tree - contains files that we are working on 
 2. Staging area - contains all added files/new/changed to the next commit
 3. Repository.  - it is a project's database.
+
 Every files goes through 3 stages:
    1. Modified
    2. Staged
@@ -38,6 +41,7 @@ Branching strategies:
 Examples:
 1. GitHub Flow: very simple, lean
                 Has only 1 long- run branch( main )+ feature branches
+                
 2. GitFlow: more structures, more rules
             Long-running:"main"+ develop
             Short-lived: features, releases,hotfixes
@@ -53,7 +57,7 @@ MERGE CONFLICTS:
    Conflicts occur when integrating commits from different sources.
    (Like..Merge, rebase, clurry-pick, Stash apply,pull request)
 
-How to solve a conflict: clean up the file.
+How to solve a conflict: clean up the file:
 
                        MERGE.                              Vs.                    REBASE
 
