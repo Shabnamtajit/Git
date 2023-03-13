@@ -19,6 +19,7 @@ Perfect Commit Message:
             c) Anything particularly remarkable
 
 Working of Git:
+
 1. Working tree - contains files that we are working on 
 2. Staging area - contains all added files/new/changed to the next commit
 3. Repository.  - it is a project's database.
@@ -76,3 +77,5 @@ NOTES:
   a) Do not use Rebase on commits that have already pushed/shared on remote repository.
   
   b) Instead use it for cleaning up local commit history before merging it into shared team branch.
+
+
