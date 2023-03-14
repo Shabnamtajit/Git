@@ -38,8 +38,10 @@ Branching strategies:
                                 No direct commits
         b) Short lived branch : for new feature, bug fixes, refractories , experiments
                                 Will be deleted after integration ( merge/rebase)
+                                
 
 Examples:
+
 1. GitHub Flow: very simple, lean
                 Has only 1 long- run branch( main )+ feature branches
                 
