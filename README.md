@@ -25,11 +25,13 @@ Working of Git:
 3. Repository.  - it is a project's database.
 
 Every files goes through 3 stages:
+
    1. Modified
    2. Staged
    3. Committed
 
 Branching strategies:
+
    1. Written convention
    2. Integration: few branches, relatively small commits, high quality testing
    3. State , release and feature branches
