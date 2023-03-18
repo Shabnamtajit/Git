@@ -11,6 +11,7 @@ Features of Git:
   4. Branching
   5. Lightweight and Fast
 
+
 Perfect Commit Message:
 
   1. Subject -> consise summary of what happened
@@ -44,10 +45,12 @@ Branching strategies:
 
 Examples:
 
-1. GitHub Flow: very simple, lean
+1. GitHub Flow: 
+                very simple, lean
                 Has only 1 long- run branch( main )+ feature branches
                 
-2. GitFlow: more structures, more rules
+2. GitFlow: 
+            more structures, more rules
             Long-running:"main"+ develop
             Short-lived: features, releases,hotfixes
 
